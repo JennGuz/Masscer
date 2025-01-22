@@ -26,7 +26,7 @@ export default defineConfig({
 					items: [
 						{
 							label: "Overview",
-							translations: {"es" : "Resumen" },
+							translations: {"es" : "Empezando" },
 							slug: "getting-started/overview"
 						},
 						{

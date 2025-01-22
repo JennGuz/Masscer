@@ -1,9 +1,9 @@
 ---
-title: Visión General
+title: Empezando
 description: Una guía en mi nuevo sitio de documentación de Starlight.
 ---
 
-# Introducción a Masscer: Un Puente Hacia el Futuro de la Inteligencia Artificial
+## Introducción a Masscer: Un Puente Hacia el Futuro de la Inteligencia Artificial
 
 Masscer es una innovadora plataforma diseñada para facilitar el acceso, uso y personalización de las inteligencias artificiales más avanzadas del mundo. Actuando como un puente entre los usuarios y los modelos de IA líderes en la industria, como los desarrollados por OpenAI, Anthropic y XAI, Masscer también democratiza el acceso a modelos de código abierto que se ejecutan de manera privada en servidores seguros. Esta combinación única de tecnología avanzada, privacidad y simplicidad convierte a Masscer en un referente en la adopción de IA para individuos, empresas y desarrolladores.
 

@@ -3,7 +3,7 @@ title: Overview
 description: A guide in my new Starlight docs site.
 ---
 
-# Introduction to Masscer: A Bridge to the Future of Artificial Intelligence
+## Introduction to Masscer: A Bridge to the Future of Artificial Intelligence
 
 Masscer is an innovative platform designed to facilitate access, usage, and customization of the most advanced artificial intelligences in the world. Acting as a bridge between users and industry-leading AI models, such as those developed by OpenAI, Anthropic, and XAI, Masscer also democratizes access to open-source models that run privately on secure servers. This unique combination of advanced technology, privacy, and simplicity makes Masscer a benchmark for AI adoption by individuals, businesses, and developers.
 
