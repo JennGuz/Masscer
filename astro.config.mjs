@@ -8,9 +8,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
-			defaultLocale: "en",
+			defaultLocale: "root",
 			locales: {
-				en: {
+				root: {
 					label: "English",
 					lang: "en"
 				},
@@ -97,7 +97,3 @@ export default defineConfig({
 		}),
 	],
 });
-
-
-
-
