@@ -5,6 +5,16 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Masscer',
+			// components: {
+			// 	ContentPanel: "./src/components/contentPanel.astro"
+			// },
+			customCss: [
+				"./src/styles/custom.css"
+			],
+			// logo: {
+			// 	src: "./src/assets/images/logo-masscer.jpg",
+			// 	replacesTitle: true
+			// },
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
