@@ -8,7 +8,7 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
-			defaultLocale: "root",
+			// defaultLocale: "root",
 			locales: {
 				root: {
 					label: "English",
@@ -30,6 +30,11 @@ export default defineConfig({
 							slug: "getting-started/overview"
 						},
 						{
+							label: "Create an account",
+							translations: { "es" : "Crear una cuenta" },
+							slug: "getting-started/create-an-account"
+						},
+						{
 							label: "Models",
 							translations: { "es": "Modelos" },
 							slug: "getting-started/models"
@@ -46,14 +51,39 @@ export default defineConfig({
 					translations: { "es" : "Capacidades" },
 					items: [
 						{
-							label: "Image generation",
-							translations: { "es" : "Generación de imagenes" },
-							slug: "capabilities/image-generation"
+							label: "Vision",
+							translations: { "es" : "Visión" },
+							slug: "capabilities/vision"
 						},
 						{
 							label: "Text generation",
 							translations: { "es" : "Generación de texto" },
 							slug: "capabilities/text-generation"
+						},
+						{
+							label: "Prompting",
+							translations: { "es" : "Prompting" },
+							slug: "capabilities/prompting"
+						},
+						{
+							label: "Agents",
+							translations: { "es" : "Agentes" },
+							slug: "capabilities/agents"
+						},
+						{
+							label: "Document creation with AI",
+							translations: { "es" : "Creación de documentos con IA" },
+							slug: "capabilities/document-creation"
+						},
+						{
+							label: "Image generation",
+							translations: { "es" : "Generación de imagenes" },
+							slug: "capabilities/image-generation"
+						},
+						{
+							label: "Video generation",
+							translations: { "es" : "Generación de videos" },
+							slug: "capabilities/video-generation"
 						},
 						{
 							label: "Text to speech",
