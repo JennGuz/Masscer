@@ -5,11 +5,11 @@ description: A complete guide on how to generate, customize, and export document
 
 Document generation is a core capability within Masscer that allows users to create, customize, and export documents in various formats. Whether you need to draft reports, generate technical files, or create structured content like JSON or HTML, Masscer provides versatile and powerful tools to meet your needs.
 
-This guide will explain how document generation works in Masscer, its use cases, the types of documents you can generate, and the steps to make the most of this functionality.
+This guide will explain how document generation works in Masscer, its use cases, the types of documents you can generate, and detailed steps to make the most of this functionality.
 
 ---
 
-## How Document Generation Works in Masscer
+## How Does Document Generation Work in Masscer?
 
 Document generation in Masscer is powered by AI models designed to produce structured, high-quality content. This process combines user input (such as prompts or specific instructions) with advanced algorithms to create documents tailored to your needs.
 
@@ -49,10 +49,10 @@ Document generation in Masscer has practical applications across a wide range of
 
 ## Steps to Generate Documents in Masscer
 
-Document generation in Masscer is a simple process you can complete in just a few steps:
+Generating documents in Masscer is a simple process that can be completed in just a few steps:
 
 #### **1. Specify the content in the prompt**
-Once logged into your account and in the chat window, type in the prompt the text or context you want the AI to generate. Clearly indicate the topic or type of document you need. For example:
+Once logged into your account and in the chat window, enter the prompt specifying the text or context you want the AI to generate. Clearly indicate the topic or type of document you need. For example:
 - **For a sales report**: "Create a monthly sales report with an analysis of key metrics."
 - **For technical documentation**: "Generate a user guide for configuring an enterprise network system."
 - **For a JSON file**: "Create a JSON structure for a product list with name, price, and description."

@@ -1,5 +1,5 @@
 ---
-title: Agentes en IA
+title: Agentes IA
 description: Una guía completa para entender y trabajar con agentes en Masscer.
 ---
 
@@ -31,7 +31,7 @@ Crear y personalizar un agente en Masscer es un proceso intuitivo que permite ad
 3. **Configura el agente**:
    - **Elige el modelo**: Selecciona el modelo de IA que mejor se adapte a la tarea que deseas realizar (por ejemplo, GPT para generación de texto o Flux para generación de imágenes).
    - **Asigna un nombre**: Introduce un nombre para identificar al agente.
-   - **Define el prompt**: Escribe el prompt que guiará al agente en su tarea. Si necesitas más información sobre cómo redactar un prompt, consulta la sección de [Prompting](/es/capabilities/prompting).
+   - **Define el prompt**: Escribe el prompt que guiará al agente en su tarea. Si necesitas más información sobre cómo redactar un prompt, consulta la sección de [Prompting](/es/capabilities/prompting#cómo-escribir-un-prompt-para-generación-de-texto)
    - **Configura las opciones avanzadas**: Ajusta los siguientes parámetros según tus necesidades:
      - **Frequency Penalty**: Controla la penalización para palabras repetidas. Valor predeterminado: `0`.
      - **Max Tokens**: Especifica el número máximo de tokens que el modelo puede generar. Valor predeterminado: `4000`.
@@ -74,38 +74,3 @@ Aquí tienes algunas recomendaciones para aprovechar al máximo el uso de agente
 3. **Usa datos relevantes**: Si estás personalizando un agente, asegúrate de incluir datos específicos y de calidad.
 4. **Evalúa con múltiples agentes**: Siempre que sea posible, compara varios agentes para asegurarte de que estás utilizando el modelo más adecuado.
 5. **Aprovecha las herramientas de Masscer**: Masscer ofrece una interfaz intuitiva y herramientas avanzadas para gestionar, evaluar y personalizar agentes.
-
----
-
-## Casos de uso comunes de agentes
-
-Los agentes pueden ser utilizados en una amplia variedad de aplicaciones. Aquí te presentamos algunos ejemplos:
-
-### Atención al cliente:
-- Responder preguntas frecuentes.
-- Guiar a los usuarios a través de procesos o soluciones técnicas.
-
-### Generación de contenido:
-- Crear textos publicitarios, artículos o descripciones de productos.
-- Generar imágenes para campañas de marketing o diseño gráfico.
-
-### Análisis de datos:
-- Resumir grandes volúmenes de información.
-- Identificar tendencias o patrones en datos complejos.
-
-### Educación:
-- Actuar como tutores personalizados para estudiantes.
-- Responder preguntas en tiempo real basadas en libros de texto o materiales educativos.
-
----
-
-## Ventajas de usar agentes en Masscer
-
-Masscer proporciona un entorno robusto y flexible para trabajar con agentes de IA. Algunas de las ventajas clave incluyen:
-
-- **Facilidad de uso**: La interfaz de Masscer permite a los usuarios, incluso sin experiencia técnica, crear y personalizar agentes rápidamente.
-- **Evaluación simultánea**: Puedes comparar varios agentes en tiempo real para tomar decisiones informadas.
-- **Escalabilidad**: Masscer soporta una amplia gama de modelos y configuraciones, lo que te permite trabajar con agentes simples o complejos.
-- **Seguridad y privacidad**: Los datos que utilizas para entrenar o interactuar con agentes están protegidos y cumplen con los estándares de seguridad.
-
-

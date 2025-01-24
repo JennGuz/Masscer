@@ -92,5 +92,4 @@ Independientemente del tipo de contenido que estés generando (texto, imágenes 
 
 - Aprende más sobre los prompts y el diseño de prompts en IA:
   - [Guía de ingeniería de prompts](https://www.promptingguide.ai)
-  - [Mejores prácticas para prompts de OpenAI](https://platform.openai.com/docs/guides/completion/best-practices)
   - [Consejos para escribir prompts en MidJourney](https://midjourney.com/prompt-guide/)

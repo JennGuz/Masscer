@@ -53,7 +53,7 @@ Cuando utilizas la funcionalidad de TTS en Masscer, obtienes acceso a una serie 
 Utilizar la funcionalidad de Texto a Voz en Masscer es muy fácil. Sigue estos pasos:
 
 ### Paso 1: Accede a la Plataforma
-- Inicia sesión en tu cuenta de  **[Masscer](https://www.masscer.com/tts)**.
+- Inicia sesión en tu cuenta de <a href="https://masscer-ai.ngrok.app/" target="_blank">Masscer</a> .
 
 ### Paso 2: Escribe el Texto
 - Ingresa el texto o prompt relacionado con el audio que deseas generar en el campo correspondiente.
@@ -102,18 +102,6 @@ La versatilidad de la funcionalidad de TTS de Masscer permite una amplia varieda
 
 ---
 
-## Beneficios de Usar TTS en Masscer
-
-Al aprovechar las capacidades de TTS de OpenAI, Masscer ofrece varios beneficios clave:
-
-1. **Ahorro de Tiempo**: Automatiza la creación de audio de alta calidad, ahorrando tiempo en comparación con la grabación tradicional.
-2. **Rentabilidad**: Elimina la necesidad de contratar locutores o invertir en equipos de grabación costosos.
-3. **Escalabilidad**: Genera audio para grandes volúmenes de texto o contenido multilingüe sin esfuerzo.
-4. **Consistencia**: Mantén un estilo de voz consistente en tus proyectos y en varios idiomas.
-5. **Personalización**: Adapta el tono, la velocidad y el estilo a tus necesidades específicas.
-
----
-
 ## Ejemplos de TTS en Acción
 
 Aquí tienes algunos ejemplos prácticos de cómo puedes usar TTS en Masscer:
@@ -138,8 +126,6 @@ Razones para elegir Masscer:
 
 ## Comienza a Usar TTS Hoy
 
-¿Listo para dar vida a tu texto con la funcionalidad de Texto a Voz de Masscer? Visita la **[Herramienta de Texto a Voz](https://www.masscer.com/tts)** y empieza hoy mismo.
+¿Listo para dar vida a tu texto con la funcionalidad de Texto a Voz de Masscer? Visita la herramienta de <a href="https://masscer-ai.ngrok.app/" target="_blank">Texto a voz</a> y empieza hoy mismo.
 
 Ya sea para crear contenido, mejorar la accesibilidad o desarrollar experiencias interactivas, TTS en Masscer es tu solución para síntesis de voz natural y personalizada.
-
----

@@ -61,30 +61,6 @@ La visión en IA tiene una amplia gama de aplicaciones prácticas. Algunos de lo
 
 ---
 
-## Casos de uso comunes de la visión en IA
-
-### **1. Salud**
-- Análisis de imágenes médicas para identificar patrones o diagnosticar enfermedades (por ejemplo, detección de tumores en radiografías).
-- Seguimiento del progreso de terapias utilizando imágenes.
-
-### **2. Seguridad**
-- Reconocimiento facial en sistemas de vigilancia.
-- Identificación de objetos sospechosos en tiempo real.
-
-### **3. Comercio y retail**
-- Automatización del inventario mediante el reconocimiento de productos.
-- Experiencias de compra personalizadas con realidad aumentada.
-
-### **4. Entretenimiento**
-- Generación de contenido visual para videojuegos o películas.
-- Filtrado y clasificación de contenido en plataformas de streaming.
-
-### **5. Agricultura**
-- Detección de plagas en cultivos mediante análisis de imágenes.
-- Monitoreo del estado de las plantas y predicción de cosechas.
-
----
-
 ## ¿Cómo aprovechar la visión en IA?
 
 Para sacar el máximo provecho de los modelos de visión, considera los siguientes consejos:

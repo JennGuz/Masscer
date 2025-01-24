@@ -85,22 +85,8 @@ La versatilidad de la funcionalidad de Voz a Texto en Masscer permite una amplia
 
 ---
 
-## Beneficios de Usar Voz a Texto en Masscer
-
-Al aprovechar el poder del modelo Whisper de OpenAI, Masscer ofrece varios beneficios clave:
-
-1. **Precisión Avanzada**: Whisper maneja acentos y variaciones en el habla con gran exactitud.
-2. **Ahorro de Tiempo**: Automatiza la transcripción de audio, eliminando la necesidad de transcribir manualmente.
-3. **Versatilidad**: Transcribe audio en varios idiomas y traduce directamente al inglés si es necesario.
-4. **Facilidad de Uso**: Una interfaz intuitiva que permite convertir audio en texto con solo unos clics.
-5. **Resultados Instantáneos**: Obtén transcripciones rápidas en cuestión de segundos.
-
----
-
 ## Comienza a Usar Voz a Texto Hoy
 
-¿Listo para convertir tus grabaciones de voz en texto escrito con precisión? Visita la herramienta de **Voz a Texto** en Masscer y prueba esta poderosa funcionalidad hoy mismo.
+¿Listo para convertir tus grabaciones de voz en texto escrito con precisión? Visita la herramienta de  <a href="https://masscer-ai.ngrok.app/" target="_blank">Voz a texto</a> en Masscer y prueba esta poderosa funcionalidad hoy mismo.
 
 Con Masscer, transformar palabras habladas en texto nunca ha sido tan fácil y eficiente.
-
----

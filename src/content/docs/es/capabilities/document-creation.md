@@ -89,5 +89,3 @@ La capacidad de generar documentos en Masscer ofrece múltiples beneficios, como
 - **Flexibilidad**: Permite generar una variedad de documentos para diferentes necesidades y contextos.
 - **Interactividad**: Puedes ajustar el contenido en tiempo real, asegurando que el resultado final sea exactamente lo que necesitas.
 - **Exportación versátil**: Ofrece múltiples formatos de exportación para adaptarse a diferentes propósitos.
-
-
