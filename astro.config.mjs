@@ -11,10 +11,10 @@ export default defineConfig({
 			customCss: [
 				"./src/styles/custom.css"
 			],
-			// logo: {
-			// 	src: "./src/assets/images/logo-masscer.jpg",
-			// 	replacesTitle: true
-			// },
+			logo: {
+				src: "./src/assets/images/logo-masscer2.png",
+				replacesTitle: true
+			},
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
@@ -116,6 +116,17 @@ export default defineConfig({
 							slug: "capabilities/reasoning"
 						},
 					]
+				},
+				{
+					label: "Fine-tuning",
+					translations: { "es" : "Fine-tuning" },
+					items: [
+						{
+							label: "Overview",
+							translations: { "es" : "Empezando"},
+							slug: "fine-tuning/overview"
+						}
+					]	
 				},
 				{
 					label: "Policies",

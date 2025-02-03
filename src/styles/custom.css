@@ -1,33 +1,70 @@
 /* Dark mode colors. */
 :root {
-	--sl-color-accent-low: #f7f1f2;
-	--sl-color-accent: #c40043;
-	--sl-color-accent-high: #5286a9;
-	--sl-color-white: #ffffff;
-	--sl-color-gray-1: #e7eff2;
-	--sl-color-gray-2: #bac4c8;
-	--sl-color-gray-3: #7b8f96;
-	--sl-color-gray-4: #495c62;
-	--sl-color-gray-5: #2a3b41;
-	--sl-color-gray-6: #06181F;
-	--sl-color-black: #121a1c;
+  --sl-color-accent-low: #f7f1f2;
+  --sl-color-accent: #c40043;
+  --sl-color-accent-high: #5059cf;
+  --sl-color-white: #ffffff;
+  --sl-color-gray-1: #e7eff2;
+  --sl-color-gray-2: #bac4c8;
+  --sl-color-gray-3: #7b8f96;
+  --sl-color-gray-4: #495c62;
+  --sl-color-gray-5: #2a3b41;
+  --sl-color-gray-6: #06181f;
+  --sl-color-black: #121a1c;
 }
 /* Light mode colors. */
-:root[data-theme='light'] {
-	--sl-color-accent-low: #ffc6ca;
-	--sl-color-accent: #4b7998;
-	--sl-color-accent-high: #a76176;
-	--sl-color-white: #121a1c;
-	--sl-color-gray-1: #182a2f;
-	--sl-color-gray-2: #2a3b41;
-	--sl-color-gray-3: #495c62;
-	--sl-color-gray-4: #7b8f96;
-	--sl-color-gray-5: #4b7998;
-	--sl-color-gray-6: #dee6e9;
-	--sl-color-gray-7: #f3f7f9;
-	--sl-color-black: #ffffff;
+:root[data-theme="light"] {
+  --sl-color-accent-low: #ffc6ca;
+  --sl-color-accent: #4b7998;
+  --sl-color-accent-high: #a76176;
+  --sl-color-white: #121a1c;
+  --sl-color-gray-1: #182a2f;
+  --sl-color-gray-2: #2a3b41;
+  --sl-color-gray-3: #495c62;
+  --sl-color-gray-4: #7b8f96;
+  --sl-color-gray-5: #4b7998;
+  --sl-color-gray-6: #dee6e9;
+  --sl-color-gray-7: #f3f7f9;
+  --sl-color-black: #ffffff;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
+}
+
+.header {
+  border: none;
+  padding: 10px 20px;
+  background: transparent;
+  backdrop-filter: blur(100px);
+  box-shadow: 0 4px 10px transparent;
+  z-index: 1000;
+  
+}
+
+.main-frame {
+  background: url("../assets/images/imagen9.jpg");
+  background-size: cover;
+}
+
+.header .header {
+  background-color: transparent;
+  border-radius: 50px;
+}
+
+.header .sl-flex a:hover {
+  color: #34488992;
+}
+
+.hero img {
+  /* background-color: red; */
+  /* padding: 0;
+  margin: 0; */
+  width: 300px;
+}
+
+.site-title img{
+  /* width: 100px; */
+  height: 78px;
+  /* background-color: blue; */
 }

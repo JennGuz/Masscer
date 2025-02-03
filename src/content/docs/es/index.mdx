@@ -5,7 +5,7 @@ template: splash
 hero:
   tagline: Todo lo que necesitas para aprovechar el poder de la inteligencia artificial. Simple, seguro y accesible con Masscer.
   image:
-    file: ../../../assets/houston.webp
+    file: ../../../assets/images/botMasscer.png
   actions:
     - text: Empezar
       link: getting-started/overview/
@@ -15,16 +15,16 @@ hero:
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
 <CardGrid stagger>
-	<Card title="Actualizar contenido" icon="pencil">
-		Edita `src/content/docs/index.mdx` para ver los cambios en esta página.
+	<Card title="Crear una cuenta" icon="pen">
+		Primero, regístrate para acceder a las funciones de Masscer. Consulta la guia [crear una cuenta](es/getting-started/create-an-account).
 	</Card>
-	<Card title="Agregar contenido nuevo" icon="add-document">
-		Agrega archivos Markdown o MDX en `src/content/docs` para crear nuevas páginas.
+	<Card title="Explorar modelos" icon="magnifier">
+		Descubre los modelos disponibles y elige el que mejor se adapte a tus necesidades. Aprende más en [Modelos](es/getting-started/models)
 	</Card>
-	<Card title="Configurar tu sitio" icon="setting">
-		Edita tu `sidebar` y otras configuraciones en `astro.config.mjs`.
+	<Card title="Creación de documentos con IA" icon="document">
+		Usa Masscer para generar documentos completos con IA, ahorrando tiempo y automatizando procesos. Más información en [Creación de documentos con IA](es/capabilities/document-creation)
 	</Card>
-	<Card title="Leer la documentación" icon="open-book">
-		Aprende más en [la documentación de Starlight](https://starlight.astro.build/).
+	<Card title="Configurar agentes inteligentes" icon="rocket">
+		Crea y personaliza agentes que automatizan tareas o responden consultas. Aprende más en [Agentes](es/capabilities/agents)
 	</Card>
 </CardGrid>
