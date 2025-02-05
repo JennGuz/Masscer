@@ -2,7 +2,7 @@
 :root {
   --sl-color-accent-low: #f7f1f2;
   --sl-color-accent: #c40043;
-  --sl-color-accent-high: #5059cf;
+  --sl-color-accent-high: #3e4286;
   --sl-color-white: #ffffff;
   --sl-color-gray-1: #e7eff2;
   --sl-color-gray-2: #bac4c8;
@@ -53,18 +53,15 @@ a {
 }
 
 .header .sl-flex a:hover {
-  color: #34488992;
+  color: #3e4286;
 }
 
 .hero img {
-  /* background-color: red; */
-  /* padding: 0;
-  margin: 0; */
-  width: 300px;
+  width: 350px;
 }
 
-.site-title img{
-  /* width: 100px; */
-  height: 78px;
-  /* background-color: blue; */
+.site-title {
+  font-size: 2rem;
+  font-weight: 400;
+  color: white;
 }

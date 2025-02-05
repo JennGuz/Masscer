@@ -11,10 +11,10 @@ export default defineConfig({
 			customCss: [
 				"./src/styles/custom.css"
 			],
-			logo: {
-				src: "./src/assets/images/logo-masscer2.png",
-				replacesTitle: true
-			},
+			// logo: {
+			// 	src: "./src/assets/images/logo-masscer2.png",
+			// 	replacesTitle: true
+			// },
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
@@ -45,6 +45,11 @@ export default defineConfig({
 							slug: "getting-started/create-an-account"
 						},
 						{
+							label: "Masscer settings",
+							translations: { "es" : "Configuración de Masscer" },
+							slug: "getting-started/masscer-settings"
+						},
+						{
 							label: "Models",
 							translations: { "es": "Modelos" },
 							slug: "getting-started/models"
@@ -53,7 +58,7 @@ export default defineConfig({
 							label: "Pricing",
 							translations: { "es" : "Precios" },
 							slug: "getting-started/pricing"
-						}
+						},
 					]
 				},
 				{
@@ -118,13 +123,18 @@ export default defineConfig({
 					]
 				},
 				{
-					label: "Fine-tuning",
-					translations: { "es" : "Fine-tuning" },
+					label: "Advanced generation",
+					translations: { "es" : "Generación avanzada" },
 					items: [
 						{
-							label: "Overview",
-							translations: { "es" : "Empezando"},
-							slug: "fine-tuning/overview"
+							label: "Completions",
+							translations: { "es" : "Terminaciones" },
+							slug: "advanced-generation/completions"
+						},
+						{
+							label: "Retrieval-Aumented Generation (RAG)",
+							translations: { "es" : "Generación aumentada de recuperación (RAG)" },
+							slug: "advanced-generation/retrieval-aumented-generation"
 						}
 					]	
 				},
