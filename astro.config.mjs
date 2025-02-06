@@ -128,8 +128,13 @@ export default defineConfig({
 					items: [
 						{
 							label: "Completions",
-							translations: { "es" : "Terminaciones" },
+							translations: { "es" : "Completions" },
 							slug: "advanced-generation/completions"
+						},
+						{
+							label: "Chunks",
+							translations: { "es" : "Chunks" },
+							slug: "advanced-generation/chunks"
 						},
 						{
 							label: "Retrieval-Aumented Generation (RAG)",

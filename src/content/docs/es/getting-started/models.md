@@ -22,8 +22,6 @@ Masscer ofrece una amplia gama de modelos avanzados de inteligencia artificial p
 | **GPT-4 Turbo**              | Variante de alto rendimiento del modelo GPT-4, ideal para aplicaciones empresariales. |
 | **GPT-4**                    | Modelo más avanzado de OpenAI para tareas complejas de generación y análisis.   |
 
----
-
 ## Modelos de OpenAI y Black Forest Labs para Generar Imágenes
 
 | **Nombre del Modelo**        | **Descripción**                                                                 |
@@ -33,8 +31,6 @@ Masscer ofrece una amplia gama de modelos avanzados de inteligencia artificial p
 | **FLUX1.1 [pro]**            | Lo mejor de FLUX, con generación de imágenes de última generación, alta calidad visual, detalle impresionante y diversidad de salidas. Disponible en API y con socios como freepik y Replicate. |
 | **FLUX.1 [pro]**             | Modelo FLUX optimizado para velocidad, ofreciendo generación de imágenes de alto rendimiento y diversidad de resultados. Accesible en la API y con socios como together.ai. |
 | **FLUX.1 [dev]**             | Modelo de FLUX con pesos abiertos diseñado para aplicaciones no comerciales. Ofrece calidad similar a FLUX.1 [pro] con mayor eficiencia. Disponible en HuggingFace y Replicate. |
-
----
 
 ## Modelos de Código Abierto Compatibles con Ollama
 
@@ -51,22 +47,7 @@ Masscer ofrece una amplia gama de modelos avanzados de inteligencia artificial p
 | **llama3.2:1b**              | Modelo compacto ideal para aplicaciones ligeras de NLP.                         |
 | **nemotron-mini:latest**     | Modelo especializado en tareas de NLP con bajo consumo de recursos.             |
 | **llama3.2-vision:11b**      | Modelo multimodal que combina capacidades de texto y visión.                    |
-
----
-
-## Modelos Open Source Adicionales
-
-Masscer también soporta modelos de código abierto que pueden ejecutarse de manera privada en servidores compatibles con Ollama, permitiendo mayor control y personalización. Algunos de los modelos destacados incluyen:
-
-| **Nombre del Modelo**        | **Descripción**                                                                 |
-|------------------------------|---------------------------------------------------------------------------------|
-| **Falcon**                   | Modelo de código abierto optimizado para tareas de generación de texto preciso y eficiente. |
-| **GPT-NeoX**                 | Un modelo de inteligencia artificial de código abierto altamente escalable.     |
-| **Bloom**                    | Modelo multilingüe diseñado para tareas de procesamiento de lenguaje natural.   |
-| **Mistral**                  | Modelo ligero y eficiente para aplicaciones locales de NLP.                     |
-| **LLaMA (Meta)**             | Una serie de modelos de lenguaje de código abierto con múltiples capacidades.   |
-
----
+| **deepseek:latest**          | Modelo avanzado de código abierto diseñado para tareas de procesamiento de lenguaje, generación de texto y razonamiento complejo. |
 
 ## ¿Cómo Seleccionar un Modelo?
 
