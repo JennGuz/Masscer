@@ -44,6 +44,10 @@
   .header .sl-flex a:hover {
     color: #3E7EAC;
   }
+
+  .astro-doynk5tl {
+    background-color: #F3EFFE;
+  }
 }
 
 a {
@@ -57,7 +61,6 @@ a {
   backdrop-filter: blur(100px);
   box-shadow: 0 4px 10px transparent;
   z-index: 1000;
-  
 }
 
 .main-frame {
