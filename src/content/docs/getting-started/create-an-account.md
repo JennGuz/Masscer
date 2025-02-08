@@ -14,21 +14,15 @@ Masscer is your gateway to the world of artificial intelligence. Before you star
 ### 1. Visit the Masscer Website
 Go to the official <a href="https://masscer-ai.ngrok.app/" target="_blank">Masscer</a> website using your favorite browser.
 
----
-
-### 2. Click on "Sign Up"
+#### 2. Click on "Sign Up"
 On the homepage, look for and click the **"Sign Up"** button. This button is usually located in the top-right corner of the page.
 
----
-
-### 3. Fill Out the Registration Form
+#### 3. Fill Out the Registration Form
 You’ll be asked to provide the following information in a form:
 
 - **Full Name**: Enter your first and last name.
 - **Email Address**: Make sure to use a valid email address, as you'll need it to verify your account.
 - **Password**: Create a secure password with at least 8 characters. It’s recommended to include uppercase letters, lowercase letters, numbers, and symbols for better security.
-
----
 <!-- 
 ### 4. Review and Accept the Terms and Conditions
 Before proceeding, read Masscer's **Terms and Conditions** and **Privacy Policy**. Check the box to confirm that you agree to them.
@@ -45,8 +39,7 @@ After submitting the form, you’ll receive a confirmation email at the address 
 > **Note:** If you don’t see the email in your inbox, check your spam or junk mail folder. -->
 
 <!-- --- -->
-
-### 4. Log In
+#### 4. Log In
 Once you’ve finished creating your account, return to the Masscer website and click **"Log In"**. Enter your email address and password to access your account.
 
 ---

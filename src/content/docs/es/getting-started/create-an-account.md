@@ -11,25 +11,19 @@ Masscer es tu puerta de entrada al mundo de la inteligencia artificial. Antes de
 
 ## Pasos para Crear una Cuenta
 
-### 1. Accede al Sitio Web de Masscer
+#### 1. Accede al Sitio Web de Masscer
 Ve al sitio web oficial de <a href="https://masscer-ai.ngrok.app/" target="_blank">Masscer</a> utilizando tu navegador favorito.
 
----
-
-
-### 2. Haz Clic en "Registrarse"
+#### 2. Haz Clic en "Registrarse"
 En la página principal, busca y haz clic en el botón **"Registrarse"**. Este botón generalmente se encuentra en la esquina superior derecha de la página.
 
----
-
-### 3. Completa el Formulario de Registro
+#### 3. Completa el Formulario de Registro
 Se te pedirá que ingreses la siguiente información en un formulario:
 
 - **Nombre Completo**: Escribe tu nombre y apellido.
 - **Dirección de Correo Electrónico**: Asegúrate de usar un correo electrónico válido, ya que lo necesitarás para verificar tu cuenta.
 - **Contraseña**: Crea una contraseña segura que tenga al menos 8 caracteres. Se recomienda incluir letras mayúsculas, minúsculas, números y símbolos para mayor seguridad.
 
----
 <!-- 
 ### 4. Revisa y Acepta los Términos y Condiciones
 Antes de continuar, lee los **Términos y Condiciones** y la **Política de Privacidad** de Masscer. Marca la casilla de verificación para confirmar que estás de acuerdo.
@@ -46,8 +40,7 @@ Después de enviar el formulario, recibirás un correo electrónico de confirmac
 > **Nota:** Si no encuentras el correo en tu bandeja de entrada, revisa tu carpeta de spam o correo no deseado. -->
 
 <!-- --- -->
-
-### 4. Inicia Sesión
+#### 4. Inicia Sesión
 Una vez que hayas terminado de crear tu cuenta, regresa al sitio web de Masscer y haz clic en **"Iniciar Sesión"**. Ingresa tu correo electrónico y contraseña para acceder a tu cuenta.
 
 ---

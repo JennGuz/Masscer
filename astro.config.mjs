@@ -120,6 +120,11 @@ export default defineConfig({
 							translations: { "es" : "Razonamiento" },
 							slug: "capabilities/reasoning"
 						},
+						{
+							label: "Whatsapp",
+							translations: { "es" : "Whatsapp" },
+							slug: "capabilities/whatsapp"
+						}
 					]
 				},
 				{
