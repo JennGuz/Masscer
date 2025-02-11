@@ -111,6 +111,16 @@ export default defineConfig({
 							slug: "capabilities/speech-to-text"
 						},
 						{
+							label: "Web browsing",
+							translations: { "es" : "Navegación web" },
+							slug: "capabilities/web-browsing"
+						},
+						{
+							label: "ElevenLabs",
+							translations: { "es" : "ElevenLabs" },
+							slug: "capabilities/elevenlabs"
+						},
+						{
 							label: "Embeddings",
 							translations: { "es" : "Embeddings" },
 							slug: "capabilities/embeddings"
