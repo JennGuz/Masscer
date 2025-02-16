@@ -107,11 +107,11 @@ If your account remains inactive for more than **12 months** and does not have a
 
 ## **9. Limitation of Liability**
 
-**Masscer** is not liable for:
+**Masscer** shall not be liable for:
 - Indirect, incidental, special, or consequential damages arising from the use of the Services.
-- Loss of data, revenue, or profits, even if advised of the possibility of such damages.
+- Loss of data, income, or profits, even if it has been advised of the possibility of such damages.
 
-The total liability of **Masscer** will not exceed the amount you have paid for the Services in the last **12 months**.
+The total liability of **Masscer** shall not exceed the payment for the last month in which the incident occurred.
 
 ---
 
@@ -121,9 +121,9 @@ We may update these Terms for legal, regulatory, or technical reasons. We will n
 
 ---
 
-## **11. Governing Law**
+## **11. Applicable Law**
 
-These Terms shall be governed by the applicable laws in your jurisdiction. Any disputes will be resolved in the competent courts of your place of residence.
+These Terms shall be governed by the applicable federal laws in Mexico. Any dispute shall be resolved before the federal courts located in Toluca, State of Mexico, expressly waiving any other jurisdiction that may correspond to them due to their current or future domiciles or for any other reason.
 
 ---
 

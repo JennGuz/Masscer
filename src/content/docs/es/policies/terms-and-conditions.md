@@ -109,7 +109,7 @@ Si su cuenta permanece inactiva durante más de **12 meses** y no tiene servicio
 - Daños indirectos, incidentales, especiales o consecuentes derivados del uso de los Servicios.
 - Pérdida de datos, ingresos o beneficios, incluso si se le ha informado sobre la posibilidad de dichos daños.
 
-La responsabilidad total de **Masscer** no excederá el monto que usted haya pagado por los Servicios en los últimos **12 meses**.
+La responsabilidad total de **Masscer** no excederá el pago del último mes en que sucedió el incidente.
 
 ---
 
@@ -121,7 +121,7 @@ Podemos actualizar estos Términos por razones legales, regulatorias o técnicas
 
 ## **11. Legislación Aplicable**
 
-Estos Términos se regirán por las leyes aplicables en su jurisdicción. Cualquier disputa será resuelta en los tribunales competentes de su lugar de residencia.
+Estos Términos se regirán por las leyes federales aplicables en México. Cualquier disputa será resuelta ante los tribunales federales con residencia en Toluca, Estado de México, renunciando expresamente en este acto a cualquier otro fuero que pudiera corresponderles por razón de sus domicilios presentes o futuros o por cualquier otra causa.
 
 ---
 
